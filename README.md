@@ -5,6 +5,6 @@ DNA barcodes with short sequence fragments are used for species identification. 
 For classification of species uses a deep convolutional neural network has been used. It can achieve an average accuracy of >90 percent for both simulation and real datasets. Along with it, some machine learning models have also been tested.
 
 ## Content:
---> The data is store in csv format. It has already been encoded. The four files have seperate train and test files.
---> All the models have been provided in the "Models" folder. It also contains the preprocessing and encoding part.
+--> The data is store in csv format. It has already been encoded. The four files have seperate train and test files. \n
+--> All the models have been provided in the "Models" folder. It also contains the preprocessing and encoding part. \n
 --> Some refernce papers have also been shared in the above folder.
